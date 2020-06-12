@@ -8,3 +8,8 @@ seventh
 eigth
 nine
 ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
